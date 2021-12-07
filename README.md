@@ -1,2 +1,2 @@
 # Wine-Class-Classification
-Using Logistic Regression to classify quality red wine 
+Using Machine Learning algorithm (Logistic Regression) to classify quality red wine 
