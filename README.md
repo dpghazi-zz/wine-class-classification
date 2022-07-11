@@ -16,4 +16,4 @@ Using Machine Learning algorithm (Logistic Regression) to classify quality red w
 * Scikit-learn
 
 ## Featured Notebook
-* [Credit Card Fraud Detection](https://dpghazi.github.io/projects/wine-classification-ml.html)
+* [Wine Class Classification](https://dpghazi.github.io/projects/wine-classification-ml.html)
