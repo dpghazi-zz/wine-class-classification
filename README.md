@@ -5,8 +5,8 @@
 Using Machine Learning algorithm (Logistic Regression) to classify quality red wine.
 
 ### Overview
-  - Logistic Regression
-  - 
+ * Logistic Regression
+
 ### Tools & Libraries
 * Python
 * Jupyter
